@@ -1,9 +1,5 @@
-# RFM-Analysis-for-Customer-Segmentation-Python-
-Sure! Here's your polished and professional **GitHub README** file for the **RFM Analysis for Customer Segmentation** project:
+# 📊 RFM-Analysis-for-Customer-Segmentation-Python-
 
----
-
-# 📊 RFM Analysis for Customer Segmentation
 
 ## 📌 Overview  
 This project performs **RFM (Recency, Frequency, Monetary)** analysis on a transactional dataset to segment customers based on their purchasing behavior. RFM analysis helps businesses identify their most valuable customers and design effective, data-driven marketing strategies.
